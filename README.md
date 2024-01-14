@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rustem</h1>
 <h3 align="center">I have been in IT since 2019. During this time I have developed more than 100 projects/business services. I am currently working in one of the best startups in Kazakhstan, and doing my own projects. I will be glad to talk with you on any IT topic and am always ready for your suggestions <3</h3>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdymazhit&show_icons=true&locale=en&count_private=true" alt="abdymazhit" />
-</p>
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
     <a href="https://www.php.net"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="java" width="40" height="40"/> </a>
